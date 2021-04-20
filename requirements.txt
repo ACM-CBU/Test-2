@@ -4,7 +4,7 @@ aiosqlite==0.15.0
 appdirs==1.4.4
 apsw-wheels==3.30.1.post3
 async-timeout==3.0.1
-asyncpg==0.20.1
+asyncpg==0.21.0
 attrs==19.3.0
 Babel==2.8.0
 cachetools==4.1.1
