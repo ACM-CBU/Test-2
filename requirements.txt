@@ -44,7 +44,7 @@ PyYAML==5.3.1
 Red-DiscordBot==3.4.0
 Red-Lavalink==0.6.0
 requests==2.24.0
-rsa==4.6
+rsa==4.7
 schedule==0.6.0
 schema==0.7.2
 selenium==3.141.0
